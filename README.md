@@ -19,3 +19,4 @@ The course listing section displays available courses as cards, each with a brie
 The UI is designed to be responsive, ensuring a seamless experience across devices. The color scheme and typography are chosen to make the platform inviting and professional. The JavaScript functionality makes the platform interactive, such as dynamically updating progress and handling user actions like course enrollment. This project demonstrates how an effective UI design can enhance the user experience of an educational platform.
 
 *OUTPUT*:
+![E-LEARN](https://github.com/user-attachments/assets/7ea2ee10-a4d2-4579-a9f4-0f77b1bde817)
